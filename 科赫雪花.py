@@ -5,7 +5,8 @@ import random
 
 
 def draw_path(path):
-    t.color(255,255,255)
+    t.colormode(255)
+    t.color(random.randint(0,255),random.randint(0,255),random.randint(0,255))
     for symbol in path:
         if symbol == 'F':
             forward(length)
