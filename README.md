@@ -1,7 +1,10 @@
 README
 ===========================
-****
-#[交流学习](https://jq.qq.com/?_wv=1027&k=56mqERV "QQ群"):blush:
+****	
+|Author|果冻虾仁|
+|---|---
+|E-mail|2952277346@qq.com
+|groups|[交流学习](https://jq.qq.com/?_wv=1027&k=56mqERV "QQ群"):blush:
 ****
 # Symbols The following characters have a geometric interpretation.
 |#|Character |Meaning|
