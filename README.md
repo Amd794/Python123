@@ -46,7 +46,7 @@ README
 |18|`{`|打开多边形|
 	  
 ****
-# 函数块
+# 功能介绍
 * draw_path(length, angle, path, expalnation)
     * 主要用来绘制海龟行走路径
         * length ---->每次行走的距离
