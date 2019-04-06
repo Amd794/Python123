@@ -3,7 +3,7 @@ README
 ****
 #[交流学习](https://jq.qq.com/?_wv=1027&k=56mqERV "QQ群"):blush:
 ****
-#Symbols The following characters have a geometric interpretation.
+# Symbols The following characters have a geometric interpretation.
 |#|Character |Meaning|
 |---|----|-----|
 |1|`F`| Move forward by line length drawing a line|
@@ -24,7 +24,7 @@ README
 |16|`(`|Decrement turning angle by turning angle increment|
 |17|`)`|Increment turning angle by turning angle increment|
 ****
-#以下符号字符的几何解释。
+# 以下符号字符的几何解释。
 |#|字符 |含义|
 |---|----|-----|
 |1|`F`|按行绘制一条线向前移动|
