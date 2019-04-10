@@ -1,7 +1,6 @@
 Python 海龟创意绘画
 ===========================
-[![py35,py36](https://img.shields.io/badge/Python-3.5| 3.6| 3.7-green.svg)]
-[![py35,py36](https://img.shields.io/badge/MORE-Turrle-blue.svg)]
+[![PyPI](https://img.shields.io/badge/Python-3.5| 3.6| 3.7-green.svg))](https://github.com/Amd794/Python123)
 ****	
 |Author|Mifen|
 |---|---
