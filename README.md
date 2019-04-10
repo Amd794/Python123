@@ -1,6 +1,8 @@
 Python 海龟创意绘画
 ===========================
-[![PyPI](https://img.shields.io/badge/Python-3.5| 3.6| 3.7-green.svg))](https://github.com/Amd794/Python123)
+
+[![瘦小的圆角矩形](https://img.shields.io/badge/More-Turtle-brightgreen.svg?style=plastic)](https://www.python123.io/index/turtles/colleges/%E5%B9%BF%E7%94%9F%E6%80%81 "python海龟创意绘画")
+[![瘦小的圆角矩形](https://img.shields.io/badge/Python-3.5|3.6|3.7-purple.svg?style=plastic)](https://github.com/Amd794/Python123)
 ****	
 |Author|Mifen|
 |---|---
