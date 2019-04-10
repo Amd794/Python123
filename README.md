@@ -1,6 +1,6 @@
 README
 ===========================
-[![py35,py36](https://img.shields.io/pypi/pyversions/wechatsogou.svg)](https://github.com/Amd794/Python123)
+[![py35,py36](https://img.shields.io/badge/Python-3.5|3.6,3|7-green.svg)](https://github.com/Amd794/Python123)
 ****	
 |Author|Mifen|
 |---|---
