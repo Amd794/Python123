@@ -1,5 +1,6 @@
 README
 ===========================
+[![py27,py35,py36](https://img.shields.io/pypi/pyversions/wechatsogou.svg)](https://github.com/Amd794/Python123)
 ****	
 |Author|Mifen|
 |---|---
@@ -7,7 +8,7 @@ README
 |groups|[交流学习](https://jq.qq.com/?_wv=1027&k=56mqERV "QQ群"):blush:
 ****
 # 演示
-![][优雅画一颗大树]
+![][优雅画一颗大树.gif]
 
 # Symbols The following characters have a geometric interpretation.
 |#|Character |Meaning|
