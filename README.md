@@ -8,7 +8,7 @@ README
 |groups|[交流学习](https://jq.qq.com/?_wv=1027&k=56mqERV "QQ群"):blush:
 ****
 # 演示
-![][优雅画一颗大树.gif]
+![][https://github.com/Amd794/Python123/blob/master/%E4%BC%98%E9%9B%85%E7%94%BB%E4%B8%80%E9%A2%97%E5%A4%A7%E6%A0%91.gif]
 
 # Symbols The following characters have a geometric interpretation.
 |#|Character |Meaning|
