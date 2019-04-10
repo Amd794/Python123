@@ -6,6 +6,9 @@ README
 |E-mail|2952277346@qq.com
 |groups|[交流学习](https://jq.qq.com/?_wv=1027&k=56mqERV "QQ群"):blush:
 ****
+# 演示
+![][优雅画一颗大树]
+
 # Symbols The following characters have a geometric interpretation.
 |#|Character |Meaning|
 |---|----|-----|

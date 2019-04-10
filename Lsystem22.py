@@ -1,32 +1,21 @@
 # -*- coding: utf-8 -*-
-# Time    : 2019/4/6 17:13
+# Time    : 2019/4/6 20:16
 # Author  : Mifen
 # Email   : 2952277346@qq.com
 # Github  : https://github.com/Amd794
-
-
-# -*- coding: utf-8 -*-
-# Time    : 2019/4/6 16:25
-# Author  : Mifen
-# Email   : 2952277346@qq.com
-# Github  : https://github.com/Amd794
-
-
-# -*- coding: utf-8 -*-
-# Author  : Mifen
-# Email   : 2952277346@qq.com
-# Date  : 2018/9/7
 
 
 import turtle as t
 import random
 
+
 def draw_path(length, angle, path, expalnation):
     posList, angleList = [], []
+
     for symbol in path:
         # print(expalnation[symbol])
         if symbol == 'F':
-            t.color(getColor(),getColor(),getColor())
+            t.color(getColor(), getColor(), getColor())
             t.forward(length)
         elif symbol == '+':
             t.left(angle)
@@ -64,12 +53,12 @@ def apply_rules(path, rules):
 
 def getColor():
     t.colormode(255)
-    return random.randint(0,255)
+    return random.randint(0, 255)
 
 
 def Introduction(x=-600, y=-350):
     t.up()
-    t.color(getColor(),getColor(),getColor())
+    t.color(getColor(), getColor(), getColor())
     t.goto(-600, 300)
     t.write('Author:Mifen', font=("微软雅黑", 18))
     t.goto(-600, 250)
@@ -87,9 +76,9 @@ def initialization():
     t.pensize(1)
 
 
-def run(n,angle,length,path,rules):
+def run(n, angle, length, path, rules):
     initialization()
-    Introduction(200,-100)
+    Introduction(200, -100)
     expalnation = {
         'F': '画线',
         'x': '-',
@@ -103,18 +92,15 @@ def run(n,angle,length,path,rules):
     }
     for _ in range(n):
         path = apply_rules(path, rules)
-    draw_path(length,angle,path, expalnation)
+    draw_path(length, angle, path, expalnation)
     t.done()
 
 
 if __name__ == '__main__':
     angle = 90
     length = 20
-    path = 'F+F+F+F' #初始路径
+    path = 'F+F+F+F'   # 初始路径
     rules = {
-        'F': 'FF+F-F+F+FF'  #转换规则
+        'F': 'FF+F-F+F+FF'  # 转换规则
     }
-    run(2,angle,length,path,rules)
-
-
-
+    run(2, angle, length, path, rules)
