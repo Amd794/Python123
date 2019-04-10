@@ -6,8 +6,10 @@ README
 |---|---
 |E-mail|2952277346@qq.com
 |groups|[交流学习](https://jq.qq.com/?_wv=1027&k=56mqERV "QQ群"):blush:
+|groups|[更多演示地址](https://www.python123.io/index/turtles/colleges/%E5%B9%BF%E7%94%9F%E6%80%81 "python海龟创意绘画"):blush:
 ****
 # 演示
+![](./优雅画树.gif)
 ![](./月亮代表我的心.gif)
 ![](./%E4%BC%98%E9%9B%85%E7%94%BB%E4%B8%80%E9%A2%97%E5%A4%A7%E6%A0%91.gif)
 
