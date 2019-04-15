@@ -53,27 +53,32 @@ str_ = """
 天荒地老 海誓山盟。
 生则同襟 死则同穴。
 生有此女 夫复何求""".split("。")
-setup(1280,720)
-colormode(255)
+setup(1280,720)  # 设置窗口大小
+colormode(255)  # 使用的颜色模式, 整数还是小数
 up()
 a, b = -500, 280
 goto(a,b)
 bgcolor("black")
 
+
 down()
 def w(str_,b):
-    bgcolor( random.randint(0,255),random.randint(0,255),random.randint(0,255))
+    bgcolor( random.randint(0,255),random.randint(0,255),random.randint(0,255))  # 随机生成RGB值, 每次调用函数改变背景颜色
     for i in range(len(str_)):
         up()
         goto(a+100*i,b)
         down()
-        size =  random.randint(12,68)
-        color( random.randint(0,255),random.randint(0,255),random.randint(0,255))
+        size =  random.randint(12,68)  # 随机字体大小
+        color( random.randint(0,255),random.randint(0,255),random.randint(0,255))  # 随机字体颜色
         write(str_[i], align="center",font=("楷体",size))
+
+        
 for k in range(4):
     for i in range(7):
         w(str_[i+7*k],b-100*i)
-    reset()
+    reset()  # 清屏
+
+    
 for i in range(7):
     w(str_[i+7*4],b-100*i)
 up()
