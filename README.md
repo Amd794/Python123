@@ -12,6 +12,7 @@ Python 海龟创意绘画
 |更多演示地址|[tuttle 创意绘画](https://www.python123.io/index/turtles/colleges/%E5%B9%BF%E7%94%9F%E6%80%81 "python海龟创意绘画")
 ****
 # 演示
+![](./font.gif)
 ![](./优雅画树.gif)
 ![](./月亮代表我的心.gif)
 ![](./%E4%BC%98%E9%9B%85%E7%94%BB%E4%B8%80%E9%A2%97%E5%A4%A7%E6%A0%91.gif)
