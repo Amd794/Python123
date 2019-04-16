@@ -8,7 +8,7 @@ Python 海龟创意绘画
 |---|---
 |E-mail|2952277346@qq.com
 |Groups|[交流学习](https://jq.qq.com/?_wv=1027&k=56mqERV "QQ群"):blush:
-|Blog|[博客地址](https://blog.csdn.net/qq_42210428/article/details/89319348 "CSDN")
+|Blog|[博客地址](https://www.cnblogs.com/Mifen2952277346/p/10713943.html "CSDN")
 |更多演示地址|[tuttle 创意绘画](https://www.python123.io/index/turtles/colleges/%E5%B9%BF%E7%94%9F%E6%80%81 "python海龟创意绘画")
 ****
 # 演示
