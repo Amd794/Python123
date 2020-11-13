@@ -7,7 +7,7 @@ Python 海龟创意绘画
 |Author|Mifen|
 |---|---
 |E-mail|2952277346@qq.com
-|Blog|[博客地址](https://www.cnblogs.com/Mifen2952277346/p/10713943.html "CSDN")
+|Blog|[博客地址](https://blog.amd794.com/)
 ****
 # 演示
 ![](./font.gif)
