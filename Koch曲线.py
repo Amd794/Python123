@@ -5,6 +5,7 @@
 # Github  : https://github.com/Amd794
 
 from turtle import *
+
 import random
 length = 2
 angle  = 90
