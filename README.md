@@ -6,7 +6,6 @@ Python 海龟创意绘画
 ****	
 |Author|Mifen|
 |---|---
-|E-mail|2952277346@qq.com
 |Blog|[博客地址](https://blog.amd794.com/)
 ****
 # 演示
